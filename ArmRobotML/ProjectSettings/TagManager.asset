@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Obstacle
+  - FinishLine
+  - Price
+  - Target
+  - wall
+  - agent
+  - goal
+  - pit
+  - redGoal
+  - ground
+  - orangeGoal
+  - redBlock
+  - orangeBlock
+  - banana
+  - badBanana
+  - PlayArea
+  - Platform
+  - Ball
+  - BallStartPlatfom
+  - BallEndPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
